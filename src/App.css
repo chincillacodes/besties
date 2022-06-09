@@ -94,3 +94,8 @@ p {
 iframe {
   border-radius:12px
 }
+
+#envelopeImg {
+  width: 70%;
+  height: 70%;
+}
