@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/besties/static/css/main.5f201912.css",
+    "main.js": "/besties/static/js/main.3c3562a5.js",
+    "static/js/787.3be9bd93.chunk.js": "/besties/static/js/787.3be9bd93.chunk.js",
+    "static/media/lavender.jpeg": "/besties/static/media/lavender.915d979adcf471776c8f.jpeg",
+    "static/media/drink.png": "/besties/static/media/drink.be1f4983e6b96d21b9d2.png",
+    "static/media/place.jpeg": "/besties/static/media/place.37748446a8f9b8fa6a51.jpeg",
+    "static/media/cinnamon.jpeg": "/besties/static/media/cinnamon.9bbf6d7ff776cb2f1ad2.jpeg",
+    "static/media/cat.png": "/besties/static/media/cat.ea48ab9b16a893b7c476.png",
+    "static/media/envelope.png": "/besties/static/media/envelope.0c9ee6da8d42685fb49c.png",
+    "static/media/golang.png": "/besties/static/media/golang.e52c3cba25d0773ce0fe.png",
+    "static/media/blk_heart.png": "/besties/static/media/blk_heart.834adbc47d6a0f6c1ce8.png",
+    "static/media/logo.svg": "/besties/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/besties/index.html",
+    "main.5f201912.css.map": "/besties/static/css/main.5f201912.css.map",
+    "main.3c3562a5.js.map": "/besties/static/js/main.3c3562a5.js.map",
+    "787.3be9bd93.chunk.js.map": "/besties/static/js/787.3be9bd93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f201912.css",
+    "static/js/main.3c3562a5.js"
+  ]
+}
