@@ -1,0 +1,96 @@
+html {
+  background-color: #6495ed;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.App {
+  text-align: center;
+  background-color: #6495ed;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.cat {
+  display: flex;
+  justify-content: center;
+}
+.cat img {
+  width: 60%;
+  height: 60%;
+  filter: drop-shadow(30px 10px 4px #21285c);
+}
+
+.header {
+  padding: 10px;
+}
+
+span {
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+}
+
+.startBtn, #contBtn {
+  padding: 10%;
+}
+
+.startBtn button, #contBtn button {
+  width: 30%;
+  height: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  background-color: #ED7764;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  font-size: 25px;
+}
+
+.hidden {
+  display: none;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+
+
+#myMessage {
+  width: 60%;
+  height: 70%;
+  background-color: antiquewhite;
+  margin: auto;
+  text-align: left;
+  padding: 5%;
+  border-radius: 15px;
+}
+
+.reasons {
+  text-align: left;
+  margin: 10%;
+}
+
+.card {
+  width: 60%;
+  height: 40%;
+  background-color: antiquewhite;
+  text-align: left;
+  padding: 4%;
+  border-radius: 15px;
+  margin: 10%;
+}
+
+.card img {
+  width: 50%;
+  height: 50%;
+  border-radius: 100%;
+}
+
+
+
+iframe {
+  border-radius:12px
+}
