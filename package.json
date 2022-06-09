@@ -2,6 +2,9 @@
   "homepage": "http://chincillacodes.github.io/besties",
   "name": "for-u",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.5.0"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
